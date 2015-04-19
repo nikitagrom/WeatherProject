@@ -1,0 +1,20 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".WeatherFragmentActivity">
+    <item
+android:title="update"
+        android:icon="@drawable/update_icon"
+        android:showAsAction="ifRoom"
+        android:id="@+id/update_item"
+
+        />
+    <item
+        android:title="showlist"
+        android:icon="@drawable/page_selection"
+        android:showAsAction="ifRoom"
+        android:id="@+id/showList"
+        />
+
+
+</menu>
